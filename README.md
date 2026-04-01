@@ -1,6 +1,6 @@
 go to /wisp-proxy directory
 
-type this command in terminal↓  
+Please enter the following command into the terminal.↓  
 
 npm i  
 node index.js
